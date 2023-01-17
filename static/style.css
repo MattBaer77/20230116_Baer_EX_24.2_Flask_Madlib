@@ -1,0 +1,25 @@
+body{
+
+    display: table;
+    margin: auto;
+}
+
+h1{
+    color: navy;
+    font-family: sans-serif;
+}
+
+input{
+    display: block;
+    color: blue;
+    margin-top: 5px;
+}
+
+label{
+    font-family: sans-serif;
+    color: rgb(50, 50, 50);
+}
+
+.container{
+    margin-top: 15px;
+}
